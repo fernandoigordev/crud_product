@@ -1,0 +1,11 @@
+# Pastas
+__history/
+__recovery/
+Win32/
+
+#Arquivos
+*.local
+*.dcu
+*.res
+*.stat
+*.identcache
