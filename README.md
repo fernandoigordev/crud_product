@@ -1,7 +1,7 @@
 # CRUD de Produtos
 
 ## Arquitetura:
-O Teste foi desenvolvido utilizando boas práticas de programação e os conceitos de SOLID e clean architecture.
+A Aplicação foi desenvolvida utilizando boas práticas de programação e os conceitos de SOLID e clean architecture.
 ## Componentes:
 Foram utilizados os seguintes componentes de terceiros:
 1- TcxImageComboBox
